@@ -11,3 +11,5 @@ npm i -D nodemon
 npm i mongoose
 
 npm i express-fileupload
+
+npm i uuid
