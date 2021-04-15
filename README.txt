@@ -4,6 +4,8 @@ nest generate module champ
 nest generate controller champ
 nest generate service champ
 
+nest generate module roles
+
 
 npm i @nestjs/config
 
