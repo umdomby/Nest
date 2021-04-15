@@ -7,6 +7,9 @@ nest generate service champ
 
 npm i @nestjs/config
 
+npm i @nestjs/swagger swagger-ui-express
+
+
 npm i -D nodemon
 npm i mongoose
 
